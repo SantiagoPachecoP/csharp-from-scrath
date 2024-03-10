@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Helloworld
-build_property.ProjectDir = D:\Universidad\csharp-from-scratch\Helloworld\
+build_property.ProjectDir = D:\Universidad\Proj\new_copy\Helloworld\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

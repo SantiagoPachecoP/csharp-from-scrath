@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Universidad\\csharp-from-scratch\\Helloworld\\Helloworld.csproj": {}
+    "D:\\Universidad\\Proj\\new_copy\\Helloworld\\Helloworld.csproj": {}
   },
   "projects": {
-    "D:\\Universidad\\csharp-from-scratch\\Helloworld\\Helloworld.csproj": {
+    "D:\\Universidad\\Proj\\new_copy\\Helloworld\\Helloworld.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Universidad\\csharp-from-scratch\\Helloworld\\Helloworld.csproj",
+        "projectUniqueName": "D:\\Universidad\\Proj\\new_copy\\Helloworld\\Helloworld.csproj",
         "projectName": "Helloworld",
-        "projectPath": "D:\\Universidad\\csharp-from-scratch\\Helloworld\\Helloworld.csproj",
+        "projectPath": "D:\\Universidad\\Proj\\new_copy\\Helloworld\\Helloworld.csproj",
         "packagesPath": "C:\\Users\\THELU\\.nuget\\packages\\",
-        "outputPath": "D:\\Universidad\\csharp-from-scratch\\Helloworld\\obj\\",
+        "outputPath": "D:\\Universidad\\Proj\\new_copy\\Helloworld\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
